@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="FluxHans logo" width="120">
+</p>
+
 # FluxHans
 
 翻译 Miniflux 未读条目为简体中文。
