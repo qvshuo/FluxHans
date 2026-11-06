@@ -1,5 +1,4 @@
 .DS_Store
 .fluxhans/
 __pycache__/
-tests/
 AGENTS.md

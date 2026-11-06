@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="FluxHans logo" width="120">
+  <img src="assets/logo.png" alt="FluxHans logo" width="120">
 </p>
 
 # FluxHans
